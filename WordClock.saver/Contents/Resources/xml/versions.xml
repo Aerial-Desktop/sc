@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versions>
+	<application name="com.simonheys.wordclock">
+		<version>0.4</version>
+		<title>Word Clock 0.4 alpha — (c) Simon Heys 2008</title>
+		<description>Combined rotary and linear into one Flash release</description>
+		<url>http://www.simonheys.com/rotarywordclock/</url>
+	</application>
+</versions>
