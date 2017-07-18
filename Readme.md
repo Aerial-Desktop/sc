@@ -37,15 +37,15 @@ https://www.simonheys.com/files/Word%20Clock.dmg<hr>
 <br><br>below bin's are releases grabbed as of July 18, 2017 and will not change.
 <pre>
 svn checkout https://github.com/MichaelDimmitt/sc/trunk/Aerial.saver;
-svn checkout https://github.com/MichaelDimmitt/sc/trunk/Blue Screen Saver.saver;
-svn checkout https://github.com/MichaelDimmitt/sc/trunk/Epoch%20Flip%20Clock.saver;
+svn checkout https://github.com/MichaelDimmitt/sc/trunk/BlueScreenSaver.saver;
+svn checkout https://github.com/MichaelDimmitt/sc/trunk/EpochFlipClock.saver;
 svn checkout https://github.com/MichaelDimmitt/sc/trunk/FractalClock.saver;
 svn checkout https://github.com/MichaelDimmitt/sc/trunk/KPSaver.saver;
 svn checkout https://github.com/MichaelDimmitt/sc/trunk/MarineAquarium3.2.saver;
 svn checkout https://github.com/MichaelDimmitt/sc/trunk/MatrixScreenSaver.saver;
 svn checkout https://github.com/MichaelDimmitt/sc/trunk/StarWarsScroll.saver;
 svn checkout https://github.com/MichaelDimmitt/sc/trunk/WhatColourIsIt.saver;
-svn checkout https://github.com/MichaelDimmitt/sc/trunk/Word%20Clock.saver;
+svn checkout https://github.com/MichaelDimmitt/sc/trunk/WordClock.saver;
 </pre>
 below bin's are bin's on a master branch which should be production but use at own risk. 
 <pre>
